@@ -252,7 +252,7 @@ Este projeto está sob a licença MIT. Livre para uso, modificação e distribui
 
 <div align="center">
 
-**Desenvolvido com ❤️ para automatizar sua vida no Google Sheets**
+**Desenvolvido por Miguel Matheus para automatizar sua vida no Google Sheets**
 
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=google-sheets&logoColor=white)](https://sheets.google.com)
 [![Apps Script](https://img.shields.io/badge/Apps%20Script-4285F4?style=flat&logo=google&logoColor=white)](https://developers.google.com/apps-script)
